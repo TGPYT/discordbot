@@ -1,0 +1,20 @@
+[26.970863342] 2018-07-14 07:21:58,776 - INFO - launcher: Starting sanity checks
+[26.970863342] 2018-07-14 07:21:58,776 - INFO - launcher: Checking for Python 3.5+
+[27.969837189] 2018-07-14 07:21:58,777 - INFO - launcher: Checking console encoding
+[27.969837189] 2018-07-14 07:21:58,777 - INFO - launcher: Setting console encoding to UTF-8
+[27.969837189] 2018-07-14 07:21:58,777 - INFO - launcher: Ensuring we're in the right environment
+[28.969526291] 2018-07-14 07:21:58,778 - INFO - launcher: Adding local bins/ folder to path
+[29.968261719] 2018-07-14 07:21:58,779 - INFO - launcher: Required checks passed.
+[29.968261719] 2018-07-14 07:21:58,779 - INFO - launcher: Optional checks passed.
+[29.968261719] 2018-07-14 07:21:58,779 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[1.0369348526000977] 2018-07-14 07:21:59,786 - WARNING - musicbot.config | In config.py::MainThread(4116), line 112 in run_checks: i18n file does not exist. Trying to fallback to config/i18n/en.json.
+[1.0369348526000977] 2018-07-14 07:21:59,786 - INFO - musicbot.config | In config.py::MainThread(4116), line 123 in run_checks: Using i18n: config/i18n/en.json
+[1.0399305820465088] 2018-07-14 07:21:59,789 - DEBUG - musicbot.json | In json.py::MainThread(4116), line 8 in __init__: Init JSON obj with config/i18n/en.json
+[1.7292230129241943] 2018-07-14 07:22:00,479 - DEBUG - musicbot.bot | In bot.py::MainThread(4116), line 227 in _setup_logging: Set logging level to INFO
+[1.7292230129241943] 2018-07-14 07:22:00,479 - INFO - musicbot.bot | In bot.py::MainThread(4116), line 84 in __init__: Starting MusicBot 1.9.7
+[1.7302215099334717] 2018-07-14 07:22:00,480 - INFO - musicbot.bot | In bot.py::MainThread(4116), line 90 in __init__: Loaded autoplaylist with 2531 entries
+[4.4634151458740234] 2018-07-14 07:22:03,213 - DEBUG - musicbot.bot | In bot.py::MainThread(4116), line 1074 in on_ready: Connection established, ready to go.
+[4.4634151458740234] 2018-07-14 07:22:03,213 - DEBUG - musicbot.bot | In bot.py::MainThread(4116), line 339 in _cache_app_info: Caching app info
